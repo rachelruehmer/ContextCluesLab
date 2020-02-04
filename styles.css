@@ -1,0 +1,10 @@
+body {
+    background-color: darkslategrey;
+    font-family: 'Oswald'e, sans-serif;
+    color: linen;
+}
+
+h3 {
+    justify-content: center;
+    display: flex;
+}
